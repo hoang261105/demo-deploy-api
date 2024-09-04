@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "gender": 1,
+      "address": "Ha Noi"
+    },
+    {
+      "id": 2,
+      "name": "Nguyen Van B",
+      "email": "nvb@gmail.com",
+      "gender": 0,
+      "address": "Bac Ninh"
+    }
+  ]
+}
